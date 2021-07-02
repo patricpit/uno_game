@@ -1,5 +1,5 @@
 # Uno Card Game
-## UNO RULES
+## UNO RULES:
                 Skip:
                 The next player is "skipped".
 
